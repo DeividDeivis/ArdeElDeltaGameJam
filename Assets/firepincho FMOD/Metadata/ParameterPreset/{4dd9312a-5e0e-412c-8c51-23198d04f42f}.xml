@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{4dd9312a-5e0e-412c-8c51-23198d04f42f}">
+		<property name="name">
+			<value>gameplay a pajaro mensajero y viceversa</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b74ab2a0-99ea-4ad5-995b-06ae8d144fc9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1c825441-ee47-403d-83ba-b842f906b63b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1c825441-ee47-403d-83ba-b842f906b63b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

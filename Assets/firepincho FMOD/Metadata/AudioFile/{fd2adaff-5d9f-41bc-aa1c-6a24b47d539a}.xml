@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{fd2adaff-5d9f-41bc-aa1c-6a24b47d539a}">
+		<property name="assetPath">
+			<value>pistola de agua.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.30342403628117914</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e939ceb8-332a-4bbd-9e6f-9076cfcb378e}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,1691 @@
+fileFormatVersion: 2
+guid: 6729ed02ccdaec34bbe3803c01e8ad21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3241243776388787763
+    second: Delta_tiles_0
+  - first:
+      213: 5175334672770615035
+    second: Delta_tiles_1
+  - first:
+      213: 2486515255328080649
+    second: Delta_tiles_2
+  - first:
+      213: 8192041447814303885
+    second: Delta_tiles_3
+  - first:
+      213: -6835465847772869626
+    second: Delta_tiles_4
+  - first:
+      213: -3109411553506672531
+    second: Delta_tiles_5
+  - first:
+      213: 7594871943213861141
+    second: Delta_tiles_6
+  - first:
+      213: -1424223168136371482
+    second: Delta_tiles_7
+  - first:
+      213: 4142169876026132081
+    second: Delta_tiles_8
+  - first:
+      213: -5091337110670273989
+    second: Delta_tiles_9
+  - first:
+      213: -3452808132416904834
+    second: Delta_tiles_10
+  - first:
+      213: 6600599586482547842
+    second: Delta_tiles_11
+  - first:
+      213: -2060017026072332257
+    second: Delta_tiles_12
+  - first:
+      213: 1385520981869011852
+    second: Delta_tiles_13
+  - first:
+      213: -4592635135717127372
+    second: Delta_tiles_14
+  - first:
+      213: 5635514239828934325
+    second: Delta_tiles_15
+  - first:
+      213: 4297340343261972097
+    second: Delta_tiles_16
+  - first:
+      213: -7427681036171740779
+    second: Delta_tiles_17
+  - first:
+      213: 1501251046882862332
+    second: Delta_tiles_18
+  - first:
+      213: 7749840380137976804
+    second: Delta_tiles_19
+  - first:
+      213: -4319871461080245550
+    second: Delta_tiles_20
+  - first:
+      213: 5419734576328943015
+    second: Delta_tiles_21
+  - first:
+      213: 5669679644310499271
+    second: Delta_tiles_22
+  - first:
+      213: 2986054177814007106
+    second: Delta_tiles_23
+  - first:
+      213: -8830384780666694508
+    second: Delta_tiles_24
+  - first:
+      213: 3437808698043968025
+    second: Delta_tiles_25
+  - first:
+      213: 4619556732809056651
+    second: Delta_tiles_26
+  - first:
+      213: -7991533361852704642
+    second: Delta_tiles_27
+  - first:
+      213: 6613107012217315958
+    second: Delta_tiles_28
+  - first:
+      213: -7437540758841893692
+    second: Delta_tiles_29
+  - first:
+      213: 8316598530710998190
+    second: Delta_tiles_30
+  - first:
+      213: 6176674028507618463
+    second: Delta_tiles_31
+  - first:
+      213: -1740226164055943397
+    second: Delta_tiles_32
+  - first:
+      213: -2870029500225196304
+    second: Delta_tiles_33
+  - first:
+      213: 5965358946135673009
+    second: Delta_tiles_34
+  - first:
+      213: 5534495612259113575
+    second: Delta_tiles_35
+  - first:
+      213: -1654213488901796623
+    second: Delta_tiles_36
+  - first:
+      213: -3420013424787567473
+    second: Delta_tiles_37
+  - first:
+      213: 9056995644751207351
+    second: Delta_tiles_38
+  - first:
+      213: -180850041786026018
+    second: Delta_tiles_39
+  - first:
+      213: -1940782188406103854
+    second: Delta_tiles_40
+  - first:
+      213: -8713839223977591697
+    second: Delta_tiles_41
+  - first:
+      213: -8185688429103927904
+    second: Delta_tiles_42
+  - first:
+      213: 5030820518812375199
+    second: Delta_tiles_43
+  - first:
+      213: -6897065633451178332
+    second: Delta_tiles_44
+  - first:
+      213: -7489612859973380516
+    second: Delta_tiles_45
+  - first:
+      213: -286491735994742362
+    second: Delta_tiles_46
+  - first:
+      213: -5543235851414929699
+    second: Delta_tiles_47
+  - first:
+      213: -2732394308222824683
+    second: Delta_tiles_48
+  - first:
+      213: -1707813119843844399
+    second: Delta_tiles_49
+  - first:
+      213: 958665813019268096
+    second: Delta_tiles_50
+  - first:
+      213: -6317942830074461834
+    second: Delta_tiles_51
+  - first:
+      213: -7914850450386323730
+    second: Delta_tiles_52
+  - first:
+      213: -4828516801871877815
+    second: Delta_tiles_53
+  - first:
+      213: -8685330728696760504
+    second: Delta_tiles_54
+  - first:
+      213: -8245081168728244414
+    second: Delta_tiles_55
+  - first:
+      213: -5483605768366494271
+    second: Delta_tiles_56
+  - first:
+      213: 2790487459796240878
+    second: Delta_tiles_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Delta_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e6912ba063bfc20800000000000000
+      internalID: 3241243776388787763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6414cf67b72d740800000000000000
+      internalID: 5175334672770615035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038b6a5370e18220800000000000000
+      internalID: 2486515255328080649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 64}
+        - {x: -57, y: 50}
+        - {x: -57, y: -51}
+        - {x: -39, y: -61}
+        - {x: 8, y: -61}
+        - {x: 49, y: -50}
+        - {x: 56, y: -35}
+        - {x: 56, y: 34}
+        - {x: 26, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d809f322b4affa170800000000000000
+      internalID: 8192041447814303885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c0f2df60c8321a0800000000000000
+      internalID: -6835465847772869626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d604dbc9aa629d4d0800000000000000
+      internalID: -3109411553506672531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c7d10bc7666960800000000000000
+      internalID: 7594871943213861141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a95e03942c3ce0800000000000000
+      internalID: -1424223168136371482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1768cdb5e81fb7930800000000000000
+      internalID: 4142169876026132081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b321cb67fdfe759b0800000000000000
+      internalID: -5091337110670273989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e5bd1c492510d0800000000000000
+      internalID: -3452808132416904834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ce1e83a5a0a9b50800000000000000
+      internalID: 6600599586482547842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18b3b1ed695963e0800000000000000
+      internalID: -2060017026072332257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8327210efb5a3310800000000000000
+      internalID: 1385520981869011852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4a984daea340c0800000000000000
+      internalID: -4592635135717127372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beb8a7c75e553e40800000000000000
+      internalID: 5635514239828934325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186c51f164833ab30800000000000000
+      internalID: 4297340343261972097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599f31e73739be890800000000000000
+      internalID: -7427681036171740779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e2288fd385d410800000000000000
+      internalID: 1501251046882862332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33a1ce3c6fc8b60800000000000000
+      internalID: 7749840380137976804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad6f63bcbbc04c0800000000000000
+      internalID: -4319871461080245550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52df6d1e3c63b40800000000000000
+      internalID: 5419734576328943015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe365e89fbeae40800000000000000
+      internalID: 5669679644310499271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dcca43478907920800000000000000
+      internalID: 2986054177814007106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 49, y: 64}
+        - {x: 30, y: 6}
+        - {x: 30, y: -12}
+        - {x: 40, y: -27}
+        - {x: 57, y: -27}
+        - {x: 64, y: -24}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494985ec3db247580800000000000000
+      internalID: -8830384780666694508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -44, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -22}
+        - {x: -55, y: -22}
+        - {x: -34, y: -19}
+        - {x: -32, y: -14}
+        - {x: -31, y: -13}
+        - {x: -31, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aa8acebcc85bf20800000000000000
+      internalID: 3437808698043968025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8119de7f56fb1040800000000000000
+      internalID: 4619556732809056651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7816149fbe581190800000000000000
+      internalID: -7991533361852704642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672abd43ac976cb50800000000000000
+      internalID: 6613107012217315958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc5dbae51c88c890800000000000000
+      internalID: -7437540758841893692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac809aec4e7a6370800000000000000
+      internalID: 8316598530710998190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd392bd44f7b550800000000000000
+      internalID: 6176674028507618463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17da9e168979d7e0800000000000000
+      internalID: -1740226164055943397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe6f28206b9b28d0800000000000000
+      internalID: -2870029500225196304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b88d1e0b5639c250800000000000000
+      internalID: 5965358946135673009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a99a3bf6a7ecc40800000000000000
+      internalID: 5534495612259113575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc4953a89d0b09e0800000000000000
+      internalID: -1654213488901796623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c487009eba980d0800000000000000
+      internalID: -3420013424787567473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd7a98d89e0bd70800000000000000
+      internalID: 9056995644751207351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7babd58dd7d7df0800000000000000
+      internalID: -180850041786026018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d026a1e1e4f015e0800000000000000
+      internalID: -1940782188406103854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c33f8c469321780800000000000000
+      internalID: -8713839223977591697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad2c3d4eb7966e80800000000000000
+      internalID: -8185688429103927904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98de808b9011d540800000000000000
+      internalID: 5030820518812375199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6869d3953b840a0800000000000000
+      internalID: -6897065633451178332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -31, y: -20}
+        - {x: -31, y: -36}
+        - {x: -23, y: -46}
+        - {x: 33, y: -46}
+        - {x: 33, y: -1}
+        - {x: 20, y: 64}
+        - {x: -14, y: 64}
+        - {x: -16, y: 58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56d61819cc8f0890800000000000000
+      internalID: -7489612859973380516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -31, y: -20}
+        - {x: -31, y: -36}
+        - {x: -23, y: -46}
+        - {x: 33, y: -46}
+        - {x: 33, y: -1}
+        - {x: 20, y: 64}
+        - {x: -14, y: 64}
+        - {x: -16, y: 58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9c2f4b84d260cf0800000000000000
+      internalID: -286491735994742362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef33acc587213b0800000000000000
+      internalID: -5543235851414929699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f44108ad5941ad0800000000000000
+      internalID: -2732394308222824683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb4f01401ac48e0800000000000000
+      internalID: -1707813119843844399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004135b4a7ddd4d00800000000000000
+      internalID: 958665813019268096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6718f2e48782258a0800000000000000
+      internalID: -6317942830074461834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6f166337dc82290800000000000000
+      internalID: -7914850450386323730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949eb602d89adfcb0800000000000000
+      internalID: -4828516801871877815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847be3718b1877780800000000000000
+      internalID: -8685330728696760504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fb0b18c56939d80800000000000000
+      internalID: -8245081168728244414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd6b386b9156e3b0800000000000000
+      internalID: -5483605768366494271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9465f5f8dc9b620800000000000000
+      internalID: 2790487459796240878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Delta_tiles_0: 3241243776388787763
+      Delta_tiles_1: 5175334672770615035
+      Delta_tiles_10: -3452808132416904834
+      Delta_tiles_11: 6600599586482547842
+      Delta_tiles_12: -2060017026072332257
+      Delta_tiles_13: 1385520981869011852
+      Delta_tiles_14: -4592635135717127372
+      Delta_tiles_15: 5635514239828934325
+      Delta_tiles_16: 4297340343261972097
+      Delta_tiles_17: -7427681036171740779
+      Delta_tiles_18: 1501251046882862332
+      Delta_tiles_19: 7749840380137976804
+      Delta_tiles_2: 2486515255328080649
+      Delta_tiles_20: -4319871461080245550
+      Delta_tiles_21: 5419734576328943015
+      Delta_tiles_22: 5669679644310499271
+      Delta_tiles_23: 2986054177814007106
+      Delta_tiles_24: -8830384780666694508
+      Delta_tiles_25: 3437808698043968025
+      Delta_tiles_26: 4619556732809056651
+      Delta_tiles_27: -7991533361852704642
+      Delta_tiles_28: 6613107012217315958
+      Delta_tiles_29: -7437540758841893692
+      Delta_tiles_3: 8192041447814303885
+      Delta_tiles_30: 8316598530710998190
+      Delta_tiles_31: 6176674028507618463
+      Delta_tiles_32: -1740226164055943397
+      Delta_tiles_33: -2870029500225196304
+      Delta_tiles_34: 5965358946135673009
+      Delta_tiles_35: 5534495612259113575
+      Delta_tiles_36: -1654213488901796623
+      Delta_tiles_37: -3420013424787567473
+      Delta_tiles_38: 9056995644751207351
+      Delta_tiles_39: -180850041786026018
+      Delta_tiles_4: -6835465847772869626
+      Delta_tiles_40: -1940782188406103854
+      Delta_tiles_41: -8713839223977591697
+      Delta_tiles_42: -8185688429103927904
+      Delta_tiles_43: 5030820518812375199
+      Delta_tiles_44: -6897065633451178332
+      Delta_tiles_45: -7489612859973380516
+      Delta_tiles_46: -286491735994742362
+      Delta_tiles_47: -5543235851414929699
+      Delta_tiles_48: -2732394308222824683
+      Delta_tiles_49: -1707813119843844399
+      Delta_tiles_5: -3109411553506672531
+      Delta_tiles_50: 958665813019268096
+      Delta_tiles_51: -6317942830074461834
+      Delta_tiles_52: -7914850450386323730
+      Delta_tiles_53: -4828516801871877815
+      Delta_tiles_54: -8685330728696760504
+      Delta_tiles_55: -8245081168728244414
+      Delta_tiles_56: -5483605768366494271
+      Delta_tiles_57: 2790487459796240878
+      Delta_tiles_6: 7594871943213861141
+      Delta_tiles_7: -1424223168136371482
+      Delta_tiles_8: 4142169876026132081
+      Delta_tiles_9: -5091337110670273989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

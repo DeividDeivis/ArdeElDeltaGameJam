@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 31cfcb2ab1fac1d4abb0ab5be0d03b3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4302960431125801485
+    second: sprites capybara_nadando_128x128_0
+  - first:
+      213: 5129262166636625068
+    second: sprites capybara_nadando_128x128_1
+  - first:
+      213: -455814672919161770
+    second: sprites capybara_nadando_128x128_2
+  - first:
+      213: -7163471401381699102
+    second: sprites capybara_nadando_128x128_3
+  - first:
+      213: -5376179194426786760
+    second: sprites capybara_nadando_128x128_4
+  - first:
+      213: -2531778265574188897
+    second: sprites capybara_nadando_128x128_5
+  - first:
+      213: 5540889003554466062
+    second: sprites capybara_nadando_128x128_6
+  - first:
+      213: -8624126257073095011
+    second: sprites capybara_nadando_128x128_7
+  - first:
+      213: -435670185959138245
+    second: sprites capybara_nadando_128x128_8
+  - first:
+      213: -178781769149996711
+    second: sprites capybara_nadando_128x128_9
+  - first:
+      213: 1088078348927966195
+    second: sprites capybara_nadando_128x128_10
+  - first:
+      213: 7794491750821096404
+    second: sprites capybara_nadando_128x128_11
+  - first:
+      213: -6307271174937224618
+    second: sprites capybara_nadando_128x128_12
+  - first:
+      213: -594079323702354271
+    second: sprites capybara_nadando_128x128_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aa0dbc6bf27bb30800000000000000
+      internalID: 4302960431125801485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 385
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf93ab3ccce2740800000000000000
+      internalID: 5129262166636625068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 385
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6541e3158fe9ca9f0800000000000000
+      internalID: -455814672919161770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c7853c189f365b0800000000000000
+      internalID: -5376179194426786760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f985566d4115ddcd0800000000000000
+      internalID: -2531778265574188897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096bbc113135ec40800000000000000
+      internalID: 5540889003554466062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef90d9cd2f05880800000000000000
+      internalID: -8624126257073095011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c5dae264034f9f0800000000000000
+      internalID: -435670185959138245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951af7d9de6d48df0800000000000000
+      internalID: -178781769149996711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb15a35e71a91f00800000000000000
+      internalID: 1088078348927966195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db676c43f89b2c60800000000000000
+      internalID: 7794491750821096404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_nadando_128x128_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a5ec3a8421878a0800000000000000
+      internalID: -6307271174937224618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprites capybara_nadando_128x128_0: 4302960431125801485
+      sprites capybara_nadando_128x128_1: 5129262166636625068
+      sprites capybara_nadando_128x128_10: 1088078348927966195
+      sprites capybara_nadando_128x128_11: 7794491750821096404
+      sprites capybara_nadando_128x128_12: -6307271174937224618
+      sprites capybara_nadando_128x128_2: -455814672919161770
+      sprites capybara_nadando_128x128_4: -5376179194426786760
+      sprites capybara_nadando_128x128_5: -2531778265574188897
+      sprites capybara_nadando_128x128_6: 5540889003554466062
+      sprites capybara_nadando_128x128_7: -8624126257073095011
+      sprites capybara_nadando_128x128_8: -435670185959138245
+      sprites capybara_nadando_128x128_9: -178781769149996711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

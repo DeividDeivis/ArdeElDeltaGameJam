@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: a7212cd9fc4c6044db47229ac1f37105
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -360810504695681441
+    second: sprites capybara_2_0
+  - first:
+      213: -2678184899832340172
+    second: sprites capybara_2_1
+  - first:
+      213: -6208281142055617059
+    second: sprites capybara_2_2
+  - first:
+      213: -4854727767183849609
+    second: sprites capybara_2_3
+  - first:
+      213: -7716817824438927958
+    second: sprites capybara_2_4
+  - first:
+      213: 2393432233759493200
+    second: sprites capybara_2_5
+  - first:
+      213: 7847216591400320773
+    second: sprites capybara_2_6
+  - first:
+      213: -2795513543996825779
+    second: sprites capybara_2_7
+  - first:
+      213: -3893689853389868907
+    second: sprites capybara_2_8
+  - first:
+      213: 3637124180182569300
+    second: sprites capybara_2_9
+  - first:
+      213: 1718446285011132412
+    second: sprites capybara_2_10
+  - first:
+      213: -2802982882103457450
+    second: sprites capybara_2_11
+  - first:
+      213: 5969063184815038988
+    second: sprites capybara_2_12
+  - first:
+      213: 1739889469370568227
+    second: sprites capybara_2_13
+  - first:
+      213: 2681842768268486317
+    second: sprites capybara_2_14
+  - first:
+      213: 777542506519064045
+    second: sprites capybara_2_15
+  - first:
+      213: -4561476081208601809
+    second: sprites capybara_2_16
+  - first:
+      213: -2883299931796806289
+    second: sprites capybara_2_17
+  - first:
+      213: 4708236755354511310
+    second: sprites capybara_2_18
+  - first:
+      213: -1237096713049848635
+    second: sprites capybara_2_19
+  - first:
+      213: -3847620233213805910
+    second: sprites capybara_2_20
+  - first:
+      213: 5568982629747820925
+    second: sprites capybara_2_21
+  - first:
+      213: 597704084082423120
+    second: sprites capybara_2_22
+  - first:
+      213: 5755947195120306476
+    second: sprites capybara_2_23
+  - first:
+      213: -8049492505323049396
+    second: sprites capybara_2_24
+  - first:
+      213: -5048787222369027930
+    second: sprites capybara_2_25
+  - first:
+      213: -3645804218666415276
+    second: sprites capybara_2_26
+  - first:
+      213: -222480067306837717
+    second: sprites capybara_2_27
+  - first:
+      213: 2220511012153984983
+    second: sprites capybara_2_28
+  - first:
+      213: 6109893602118096325
+    second: sprites capybara_2_29
+  - first:
+      213: 4260834410044438014
+    second: sprites capybara_2_30
+  - first:
+      213: 866405608179157798
+    second: sprites capybara_2_31
+  - first:
+      213: 7884673905764407372
+    second: sprites capybara_2_32
+  - first:
+      213: -5918354001900330013
+    second: sprites capybara_2_33
+  - first:
+      213: -2588957011112059887
+    second: sprites capybara_2_34
+  - first:
+      213: 7830157707414273102
+    second: sprites capybara_2_35
+  - first:
+      213: 6722815278506711175
+    second: sprites capybara_2_36
+  - first:
+      213: 5617698328135360103
+    second: sprites capybara_2_37
+  - first:
+      213: -6516750524911669757
+    second: sprites capybara_2_38
+  - first:
+      213: 8347625218599178221
+    second: sprites capybara_2_39
+  - first:
+      213: -203709509534614225
+    second: sprites capybara_2_40
+  - first:
+      213: 2849518352735227240
+    second: sprites capybara_2_41
+  - first:
+      213: 5070036685816200685
+    second: sprites capybara_2_42
+  - first:
+      213: -416114172361560880
+    second: sprites capybara_2_43
+  - first:
+      213: 3794769980759721117
+    second: sprites capybara_2_44
+  - first:
+      213: 4297336820833977523
+    second: sprites capybara_2_45
+  - first:
+      213: -8319632505343086545
+    second: sprites capybara_2_46
+  - first:
+      213: 2320588982661481458
+    second: sprites capybara_2_47
+  - first:
+      213: -8352316175438178738
+    second: sprites capybara_2_48
+  - first:
+      213: 520570240059613261
+    second: sprites capybara_2_49
+  - first:
+      213: -1991773575437934601
+    second: sprites capybara_2_50
+  - first:
+      213: 6895144302718107348
+    second: sprites capybara_2_51
+  - first:
+      213: 373411653260388127
+    second: sprites capybara_2_52
+  - first:
+      213: -7620684676001299874
+    second: sprites capybara_2_53
+  - first:
+      213: 4556182302864690401
+    second: sprites capybara_2_54
+  - first:
+      213: 8110251771746087886
+    second: sprites capybara_2_55
+  - first:
+      213: -3048229975525867921
+    second: sprites capybara_2_56
+  - first:
+      213: -5559666048863853616
+    second: sprites capybara_2_57
+  - first:
+      213: 947442138294365817
+    second: sprites capybara_2_58
+  - first:
+      213: -6650698893628114241
+    second: sprites capybara_2_59
+  - first:
+      213: -7624917646670537644
+    second: sprites capybara_2_60
+  - first:
+      213: -8937447979951067165
+    second: sprites capybara_2_61
+  - first:
+      213: 8559846927532765297
+    second: sprites capybara_2_62
+  - first:
+      213: 8215476339411673204
+    second: sprites capybara_2_63
+  - first:
+      213: 1445404752755636486
+    second: sprites capybara_2_64
+  - first:
+      213: -2767843628268587945
+    second: sprites capybara_2_65
+  - first:
+      213: 3742608640383689054
+    second: sprites capybara_2_66
+  - first:
+      213: -3705459885682271036
+    second: sprites capybara_2_67
+  - first:
+      213: -266623535304696965
+    second: sprites capybara_2_68
+  - first:
+      213: -4376038677691234396
+    second: sprites capybara_2_69
+  - first:
+      213: -7372667316990107089
+    second: sprites capybara_2_70
+  - first:
+      213: 4051272073671020726
+    second: sprites capybara_2_71
+  - first:
+      213: -4186741337254934116
+    second: sprites capybara_2_72
+  - first:
+      213: 6488800161782348787
+    second: sprites capybara_2_73
+  - first:
+      213: -4159952097854872380
+    second: sprites capybara_2_74
+  - first:
+      213: -7489980370378135045
+    second: sprites capybara_2_75
+  - first:
+      213: 4436577630163775457
+    second: sprites capybara_2_76
+  - first:
+      213: -5277345013180062095
+    second: sprites capybara_2_77
+  - first:
+      213: -5946909553270964975
+    second: sprites capybara_2_78
+  - first:
+      213: -2261727348941300623
+    second: sprites capybara_2_79
+  - first:
+      213: 1295881754334751360
+    second: sprites capybara_2_80
+  - first:
+      213: 952520499503118614
+    second: sprites capybara_2_81
+  - first:
+      213: -6800148605437496632
+    second: sprites capybara_2_82
+  - first:
+      213: 6086855203523193963
+    second: sprites capybara_2_83
+  - first:
+      213: 6158713117626336037
+    second: sprites capybara_2_84
+  - first:
+      213: -7319088786736773772
+    second: sprites capybara_2_85
+  - first:
+      213: 8063089232879346570
+    second: sprites capybara_2_86
+  - first:
+      213: 1030445496281733046
+    second: sprites capybara_2_87
+  - first:
+      213: 3985421452166542689
+    second: sprites capybara_2_88
+  - first:
+      213: 7687531442409468696
+    second: sprites capybara_2_89
+  - first:
+      213: 2218284777836260393
+    second: sprites capybara_2_90
+  - first:
+      213: 4398963019199833861
+    second: sprites capybara_2_91
+  - first:
+      213: -148732892174165776
+    second: sprites capybara_2_92
+  - first:
+      213: -6959760460708862051
+    second: sprites capybara_2_93
+  - first:
+      213: 3656295600210392954
+    second: sprites capybara_2_94
+  - first:
+      213: 2651047201542119674
+    second: sprites capybara_2_95
+  - first:
+      213: -4774562486042043452
+    second: sprites capybara_2_96
+  - first:
+      213: 3497161559761986027
+    second: sprites capybara_2_97
+  - first:
+      213: 4307307455064606469
+    second: sprites capybara_2_98
+  - first:
+      213: 8735796242010218078
+    second: sprites capybara_2_99
+  - first:
+      213: 1110891366376644589
+    second: sprites capybara_2_100
+  - first:
+      213: -922090151182143306
+    second: sprites capybara_2_101
+  - first:
+      213: -6730368577182501001
+    second: sprites capybara_2_102
+  - first:
+      213: -438654933972314718
+    second: sprites capybara_2_103
+  - first:
+      213: -8632754470459177426
+    second: sprites capybara_2_104
+  - first:
+      213: -1448521065800722877
+    second: sprites capybara_2_105
+  - first:
+      213: 4129940483937124065
+    second: sprites capybara_2_106
+  - first:
+      213: -2273232287099134261
+    second: sprites capybara_2_107
+  - first:
+      213: 8943223683713358926
+    second: sprites capybara_2_108
+  - first:
+      213: 102150730547835779
+    second: sprites capybara_2_109
+  - first:
+      213: -2784555061311260454
+    second: sprites capybara_2_110
+  - first:
+      213: 4189014779602438920
+    second: sprites capybara_2_111
+  - first:
+      213: -3574845634880476433
+    second: sprites capybara_2_112
+  - first:
+      213: -4994873765479333252
+    second: sprites capybara_2_113
+  - first:
+      213: 2554540901898050611
+    second: sprites capybara_2_114
+  - first:
+      213: 6991017871205129637
+    second: sprites capybara_2_115
+  - first:
+      213: 8290875629511641282
+    second: sprites capybara_2_116
+  - first:
+      213: -4958765437865768086
+    second: sprites capybara_2_117
+  - first:
+      213: -2902407318696043698
+    second: sprites capybara_2_118
+  - first:
+      213: 7428593510155133683
+    second: sprites capybara_2_119
+  - first:
+      213: 9147018511891199121
+    second: sprites capybara_2_120
+  - first:
+      213: -9001709504449055996
+    second: sprites capybara_2_121
+  - first:
+      213: 1018982922196744005
+    second: sprites capybara_2_122
+  - first:
+      213: -4428908671283271171
+    second: sprites capybara_2_123
+  - first:
+      213: -7732702251748998589
+    second: sprites capybara_2_124
+  - first:
+      213: 8261553341939277918
+    second: sprites capybara_2_125
+  - first:
+      213: 6185024454611308609
+    second: sprites capybara_2_126
+  - first:
+      213: 512682908176375025
+    second: sprites capybara_2_127
+  - first:
+      213: 36388016562636262
+    second: sprites capybara_2_128
+  - first:
+      213: 8486546159916002538
+    second: sprites capybara_2_129
+  - first:
+      213: -8707065322396378089
+    second: sprites capybara_2_130
+  - first:
+      213: 9105177663701948755
+    second: sprites capybara_2_131
+  - first:
+      213: -6753997218965404832
+    second: sprites capybara_2_132
+  - first:
+      213: 5891200458442173078
+    second: sprites capybara_2_133
+  - first:
+      213: 8897678975137905731
+    second: sprites capybara_2_134
+  - first:
+      213: -909004045594865259
+    second: sprites capybara_2_135
+  - first:
+      213: -837413804367578729
+    second: sprites capybara_2_136
+  - first:
+      213: -8536068243065758164
+    second: sprites capybara_2_137
+  - first:
+      213: 2338944762423482973
+    second: sprites capybara_2_138
+  - first:
+      213: -500551949373722484
+    second: sprites capybara_2_139
+  - first:
+      213: -8501126239373484952
+    second: sprites capybara_2_140
+  - first:
+      213: 132114350527572469
+    second: sprites capybara_2_141
+  - first:
+      213: -3304203242348298951
+    second: sprites capybara_2_142
+  - first:
+      213: 9199270410325361274
+    second: sprites capybara_2_143
+  - first:
+      213: 7557050185647465239
+    second: sprites capybara_2_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites capybara_2_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 440
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e6264f1c42efaf0800000000000000
+      internalID: -360810504695681441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 440
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ada2f50d25dad0800000000000000
+      internalID: -2678184899832340172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 441
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb406b131c7d9a0800000000000000
+      internalID: -6208281142055617059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 443
+        width: 201
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77708c331da80acb0800000000000000
+      internalID: -4854727767183849609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_4
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 440
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad3ae9f21b58e490800000000000000
+      internalID: -7716817824438927958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 440
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c44378fed273120800000000000000
+      internalID: 2393432233759493200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_6
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 440
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb7fdd9e9e6ec60800000000000000
+      internalID: 7847216591400320773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 331
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f96453e375439d0800000000000000
+      internalID: -2795513543996825779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 331
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590772f35b5d6f9c0800000000000000
+      internalID: -3893689853389868907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 331
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45114cbeb29a97230800000000000000
+      internalID: 3637124180182569300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 222
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9daf9ac529d710800000000000000
+      internalID: 1718446285011132412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 222
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65909b86bedc919d0800000000000000
+      internalID: -2802982882103457450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 222
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0223c4575f56d250800000000000000
+      internalID: 5969063184815038988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 43
+        width: 70
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e864a0144552810800000000000000
+      internalID: 1739889469370568227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 43
+        width: 70
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e71ae9c1d73520800000000000000
+      internalID: 2681842768268486317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites capybara_2_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 43
+        width: 70
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede5d24ac26aca00800000000000000
+      internalID: 777542506519064045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprites capybara_2_0: -360810504695681441
+      sprites capybara_2_1: -2678184899832340172
+      sprites capybara_2_10: 1718446285011132412
+      sprites capybara_2_11: -2802982882103457450
+      sprites capybara_2_12: 5969063184815038988
+      sprites capybara_2_13: 1739889469370568227
+      sprites capybara_2_14: 2681842768268486317
+      sprites capybara_2_15: 777542506519064045
+      sprites capybara_2_2: -6208281142055617059
+      sprites capybara_2_3: -4854727767183849609
+      sprites capybara_2_4: -7716817824438927958
+      sprites capybara_2_5: 2393432233759493200
+      sprites capybara_2_6: 7847216591400320773
+      sprites capybara_2_7: -2795513543996825779
+      sprites capybara_2_8: -3893689853389868907
+      sprites capybara_2_9: 3637124180182569300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

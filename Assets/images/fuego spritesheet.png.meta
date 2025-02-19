@@ -1,0 +1,1514 @@
+fileFormatVersion: 2
+guid: fcfee379280a86f488dc1640273fd58c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2269863035391617793
+    second: fuego spritesheet_0
+  - first:
+      213: 490747466193343511
+    second: fuego spritesheet_1
+  - first:
+      213: -3272331880430945692
+    second: fuego spritesheet_2
+  - first:
+      213: -1794166207968565183
+    second: fuego spritesheet_3
+  - first:
+      213: 7217829120074018473
+    second: fuego spritesheet_4
+  - first:
+      213: -7406980496788685879
+    second: fuego spritesheet_5
+  - first:
+      213: -2399503359293052912
+    second: fuego spritesheet_6
+  - first:
+      213: -6926953816342918730
+    second: fuego spritesheet_7
+  - first:
+      213: 2540607432223195391
+    second: fuego spritesheet_8
+  - first:
+      213: 7900637127075958491
+    second: fuego spritesheet_9
+  - first:
+      213: 6268465621598876531
+    second: fuego spritesheet_10
+  - first:
+      213: -2614046619770146032
+    second: fuego spritesheet_11
+  - first:
+      213: -2984476400545962945
+    second: fuego spritesheet_12
+  - first:
+      213: -9208363645240715550
+    second: fuego spritesheet_13
+  - first:
+      213: 8937154877989343049
+    second: fuego spritesheet_14
+  - first:
+      213: 458539290297082434
+    second: fuego spritesheet_15
+  - first:
+      213: -7430334475303305958
+    second: fuego spritesheet_16
+  - first:
+      213: -291603087725703080
+    second: fuego spritesheet_17
+  - first:
+      213: -8050009200850325178
+    second: fuego spritesheet_18
+  - first:
+      213: 4691170076642315294
+    second: fuego spritesheet_19
+  - first:
+      213: 4409420634979063068
+    second: fuego spritesheet_20
+  - first:
+      213: 4495784100034527775
+    second: fuego spritesheet_21
+  - first:
+      213: -8161715274813782902
+    second: fuego spritesheet_22
+  - first:
+      213: 910245819768855955
+    second: fuego spritesheet_23
+  - first:
+      213: -4364794803186892319
+    second: fuego spritesheet_24
+  - first:
+      213: 200177611484586004
+    second: fuego spritesheet_25
+  - first:
+      213: -4417401795370336124
+    second: fuego spritesheet_26
+  - first:
+      213: -6414770651565780691
+    second: fuego spritesheet_27
+  - first:
+      213: 4476665223970085964
+    second: fuego spritesheet_28
+  - first:
+      213: 2754213012804000720
+    second: fuego spritesheet_29
+  - first:
+      213: 2086258957177346947
+    second: fuego spritesheet_30
+  - first:
+      213: -8999051554510134144
+    second: fuego spritesheet_31
+  - first:
+      213: 1987702692065281802
+    second: fuego spritesheet_32
+  - first:
+      213: -6971473110010519218
+    second: fuego spritesheet_33
+  - first:
+      213: 7883373313244736986
+    second: fuego spritesheet_34
+  - first:
+      213: 7044205726807939047
+    second: fuego spritesheet_35
+  - first:
+      213: -4965719012940265213
+    second: fuego spritesheet_36
+  - first:
+      213: 4282854562576927635
+    second: fuego spritesheet_37
+  - first:
+      213: 7529777202571941617
+    second: fuego spritesheet_38
+  - first:
+      213: 6338275907184150675
+    second: fuego spritesheet_39
+  - first:
+      213: 5072927018490245888
+    second: fuego spritesheet_40
+  - first:
+      213: 2705183107132567581
+    second: fuego spritesheet_41
+  - first:
+      213: -2493772162242151709
+    second: fuego spritesheet_42
+  - first:
+      213: -2359560327078449666
+    second: fuego spritesheet_43
+  - first:
+      213: -1105407416694752628
+    second: fuego spritesheet_44
+  - first:
+      213: 6368264858000168925
+    second: fuego spritesheet_45
+  - first:
+      213: -5383913899479171371
+    second: fuego spritesheet_46
+  - first:
+      213: -1783707036641286176
+    second: fuego spritesheet_47
+  - first:
+      213: -7855132590326827079
+    second: fuego spritesheet_48
+  - first:
+      213: 2880864053822671991
+    second: fuego spritesheet_49
+  - first:
+      213: 5166285417079638624
+    second: fuego spritesheet_50
+  - first:
+      213: -3348311549625120040
+    second: fuego spritesheet_51
+  - first:
+      213: -8366315171878676043
+    second: fuego spritesheet_52
+  - first:
+      213: 2176910384685892169
+    second: fuego spritesheet_53
+  - first:
+      213: -1058559584366939439
+    second: fuego spritesheet_54
+  - first:
+      213: -4078450306839608554
+    second: fuego spritesheet_55
+  - first:
+      213: 3656918897978600019
+    second: fuego spritesheet_56
+  - first:
+      213: 605941913785962060
+    second: fuego spritesheet_57
+  - first:
+      213: 3428745783133412959
+    second: fuego spritesheet_58
+  - first:
+      213: -5626571183109993295
+    second: fuego spritesheet_59
+  - first:
+      213: 2761295463247200098
+    second: fuego spritesheet_60
+  - first:
+      213: -1139229943669318756
+    second: fuego spritesheet_61
+  - first:
+      213: 7733162082406743040
+    second: fuego spritesheet_62
+  - first:
+      213: 1571432972325336487
+    second: fuego spritesheet_63
+  - first:
+      213: 8130376797820503612
+    second: fuego spritesheet_64
+  - first:
+      213: 2343029897170907910
+    second: fuego spritesheet_65
+  - first:
+      213: -7722175260144352846
+    second: fuego spritesheet_66
+  - first:
+      213: 3560091494187966062
+    second: fuego spritesheet_67
+  - first:
+      213: 4511814655848353215
+    second: fuego spritesheet_68
+  - first:
+      213: 6837846093438756784
+    second: fuego spritesheet_69
+  - first:
+      213: -5417476778244996131
+    second: fuego spritesheet_70
+  - first:
+      213: 5910945529860063253
+    second: fuego spritesheet_71
+  - first:
+      213: -798267705527166541
+    second: fuego spritesheet_72
+  - first:
+      213: -1602440399826391346
+    second: fuego spritesheet_73
+  - first:
+      213: 3312352393999977361
+    second: fuego spritesheet_74
+  - first:
+      213: 4880970387123325866
+    second: fuego spritesheet_75
+  - first:
+      213: -6591704698503568117
+    second: fuego spritesheet_76
+  - first:
+      213: 4173645679029658141
+    second: fuego spritesheet_77
+  - first:
+      213: -2903958966215588576
+    second: fuego spritesheet_78
+  - first:
+      213: 9114654680348209323
+    second: fuego spritesheet_79
+  - first:
+      213: 3009366081592634519
+    second: fuego spritesheet_80
+  - first:
+      213: 1489701127544786228
+    second: fuego spritesheet_81
+  - first:
+      213: -6937605604268668278
+    second: fuego spritesheet_82
+  - first:
+      213: 4217724367971062197
+    second: fuego spritesheet_83
+  - first:
+      213: -8323341977083018039
+    second: fuego spritesheet_84
+  - first:
+      213: -5319172986944000064
+    second: fuego spritesheet_85
+  - first:
+      213: -5721718560950606394
+    second: fuego spritesheet_86
+  - first:
+      213: -980840818877582491
+    second: fuego spritesheet_87
+  - first:
+      213: 3597234533082248618
+    second: fuego spritesheet_88
+  - first:
+      213: 8277951229815441036
+    second: fuego spritesheet_89
+  - first:
+      213: 1901857755390584669
+    second: fuego spritesheet_90
+  - first:
+      213: 4529323279775690095
+    second: fuego spritesheet_91
+  - first:
+      213: 5529957674827671877
+    second: fuego spritesheet_92
+  - first:
+      213: 175427051156247263
+    second: fuego spritesheet_93
+  - first:
+      213: -4944791873331073758
+    second: fuego spritesheet_94
+  - first:
+      213: -6218774827219589702
+    second: fuego spritesheet_95
+  - first:
+      213: 6815786839614566696
+    second: fuego spritesheet_96
+  - first:
+      213: -2186118810898535312
+    second: fuego spritesheet_97
+  - first:
+      213: -6828568021206083643
+    second: fuego spritesheet_98
+  - first:
+      213: -3625457531680972328
+    second: fuego spritesheet_99
+  - first:
+      213: -2846326526895814843
+    second: fuego spritesheet_100
+  - first:
+      213: 5137911767542463632
+    second: fuego spritesheet_101
+  - first:
+      213: 6439937896104579291
+    second: fuego spritesheet_102
+  - first:
+      213: -1892685717120777062
+    second: fuego spritesheet_103
+  - first:
+      213: -2039510504531079706
+    second: fuego spritesheet_104
+  - first:
+      213: 2900472488556337387
+    second: fuego spritesheet_105
+  - first:
+      213: -5101568901066238
+    second: fuego spritesheet_106
+  - first:
+      213: -5633480400068721762
+    second: fuego spritesheet_107
+  - first:
+      213: 7226595119370158034
+    second: fuego spritesheet_108
+  - first:
+      213: -8220773465506080594
+    second: fuego spritesheet_109
+  - first:
+      213: 6289642641999232440
+    second: fuego spritesheet_110
+  - first:
+      213: -5886836895921322436
+    second: fuego spritesheet_111
+  - first:
+      213: -4578186646259790563
+    second: fuego spritesheet_112
+  - first:
+      213: 4309735922155289889
+    second: fuego spritesheet_113
+  - first:
+      213: -4909230383250290058
+    second: fuego spritesheet_114
+  - first:
+      213: 809969003888596216
+    second: fuego spritesheet_115
+  - first:
+      213: 916571770083013712
+    second: fuego spritesheet_116
+  - first:
+      213: -2038828992010355333
+    second: fuego spritesheet_117
+  - first:
+      213: 3512224976328891824
+    second: fuego spritesheet_118
+  - first:
+      213: 752557386448708119
+    second: fuego spritesheet_119
+  - first:
+      213: -8258217424779809715
+    second: fuego spritesheet_120
+  - first:
+      213: 5394278621752225866
+    second: fuego spritesheet_121
+  - first:
+      213: -1788386801760019528
+    second: fuego spritesheet_122
+  - first:
+      213: -5041278944510440068
+    second: fuego spritesheet_123
+  - first:
+      213: -6332245885326261138
+    second: fuego spritesheet_124
+  - first:
+      213: 8436233549534230814
+    second: fuego spritesheet_125
+  - first:
+      213: 6622889724732146709
+    second: fuego spritesheet_126
+  - first:
+      213: -5178852587193077221
+    second: fuego spritesheet_127
+  - first:
+      213: 6641353809210362596
+    second: fuego spritesheet_128
+  - first:
+      213: 3283835017302686454
+    second: fuego spritesheet_129
+  - first:
+      213: 7076346429806143231
+    second: fuego spritesheet_130
+  - first:
+      213: 4716875777138814361
+    second: fuego spritesheet_131
+  - first:
+      213: 8680694312301484761
+    second: fuego spritesheet_132
+  - first:
+      213: 7707970210358546068
+    second: fuego spritesheet_133
+  - first:
+      213: -5864703144696600565
+    second: fuego spritesheet_134
+  - first:
+      213: 4262632961114752113
+    second: fuego spritesheet_135
+  - first:
+      213: -1388097694258274309
+    second: fuego spritesheet_136
+  - first:
+      213: 6780944219282129919
+    second: fuego spritesheet_137
+  - first:
+      213: -8077860300684805921
+    second: fuego spritesheet_138
+  - first:
+      213: 7939201404081972170
+    second: fuego spritesheet_139
+  - first:
+      213: -3614530042162848668
+    second: fuego spritesheet_140
+  - first:
+      213: 5228606217650033785
+    second: fuego spritesheet_141
+  - first:
+      213: 2783631305902542758
+    second: fuego spritesheet_142
+  - first:
+      213: -8180352580816040873
+    second: fuego spritesheet_143
+  - first:
+      213: 2663553143297277277
+    second: fuego spritesheet_144
+  - first:
+      213: -1525632007286931370
+    second: fuego spritesheet_145
+  - first:
+      213: 700862950503312780
+    second: fuego spritesheet_146
+  - first:
+      213: 4662273552354071969
+    second: fuego spritesheet_147
+  - first:
+      213: -846258326909018981
+    second: fuego spritesheet_148
+  - first:
+      213: 574987434209491440
+    second: fuego spritesheet_149
+  - first:
+      213: -8059120121897644453
+    second: fuego spritesheet_150
+  - first:
+      213: -9061386671576326793
+    second: fuego spritesheet_151
+  - first:
+      213: 4303023644626027282
+    second: fuego spritesheet_152
+  - first:
+      213: -6087173852773158281
+    second: fuego spritesheet_153
+  - first:
+      213: -4034909157085059029
+    second: fuego spritesheet_154
+  - first:
+      213: -8769106089586974599
+    second: fuego spritesheet_155
+  - first:
+      213: 2891133627227903126
+    second: fuego spritesheet_156
+  - first:
+      213: -1156277493424919099
+    second: fuego spritesheet_157
+  - first:
+      213: 1412289572111537347
+    second: fuego spritesheet_158
+  - first:
+      213: 4672522913381529859
+    second: fuego spritesheet_159
+  - first:
+      213: -7298018334835366522
+    second: fuego spritesheet_160
+  - first:
+      213: -4077119170321667823
+    second: fuego spritesheet_161
+  - first:
+      213: 4036301841697339679
+    second: fuego spritesheet_162
+  - first:
+      213: 2768965420866322295
+    second: fuego spritesheet_163
+  - first:
+      213: 6939027146248343264
+    second: fuego spritesheet_164
+  - first:
+      213: -2638935515691437709
+    second: fuego spritesheet_165
+  - first:
+      213: -8891191749549385139
+    second: fuego spritesheet_166
+  - first:
+      213: 914503904563118166
+    second: fuego spritesheet_167
+  - first:
+      213: -2942894136323531957
+    second: fuego spritesheet_168
+  - first:
+      213: 420892011733156452
+    second: fuego spritesheet_169
+  - first:
+      213: -1200374018970242397
+    second: fuego spritesheet_170
+  - first:
+      213: 7623107646078152631
+    second: fuego spritesheet_171
+  - first:
+      213: 6684610419217949646
+    second: fuego spritesheet_172
+  - first:
+      213: -2009741049456719419
+    second: fuego spritesheet_173
+  - first:
+      213: -2394091096167520742
+    second: fuego spritesheet_174
+  - first:
+      213: -312066539534025206
+    second: fuego spritesheet_175
+  - first:
+      213: -2037982727994913695
+    second: fuego spritesheet_176
+  - first:
+      213: -553971524160020975
+    second: fuego spritesheet_177
+  - first:
+      213: -8267974691848717118
+    second: fuego spritesheet_178
+  - first:
+      213: 6498804057572150470
+    second: fuego spritesheet_179
+  - first:
+      213: -8064167429262908040
+    second: fuego spritesheet_180
+  - first:
+      213: -5527047922949268210
+    second: fuego spritesheet_181
+  - first:
+      213: 4126796294717595736
+    second: fuego spritesheet_182
+  - first:
+      213: -2486148588444115550
+    second: fuego spritesheet_183
+  - first:
+      213: -6527232111837243458
+    second: fuego spritesheet_184
+  - first:
+      213: -7265459785192877071
+    second: fuego spritesheet_185
+  - first:
+      213: -6091419354260873016
+    second: fuego spritesheet_186
+  - first:
+      213: -8505649880639135250
+    second: fuego spritesheet_187
+  - first:
+      213: 1594654138940842059
+    second: fuego spritesheet_188
+  - first:
+      213: 2057910110222594741
+    second: fuego spritesheet_189
+  - first:
+      213: 4032400334004119267
+    second: fuego spritesheet_190
+  - first:
+      213: -5851223807032719227
+    second: fuego spritesheet_191
+  - first:
+      213: -1958322906927849934
+    second: fuego spritesheet_192
+  - first:
+      213: -6942474816837240289
+    second: fuego spritesheet_193
+  - first:
+      213: 6867129614954559048
+    second: fuego spritesheet_194
+  - first:
+      213: 7788630823396027269
+    second: fuego spritesheet_195
+  - first:
+      213: -7477776260412535090
+    second: fuego spritesheet_196
+  - first:
+      213: -7351756390959660320
+    second: fuego spritesheet_0
+  - first:
+      213: 7215981036780754164
+    second: fuego spritesheet_1
+  - first:
+      213: 9080245957882507213
+    second: fuego spritesheet_2
+  - first:
+      213: -5495121615995889247
+    second: fuego spritesheet_3
+  - first:
+      213: -7103243284155413573
+    second: fuego spritesheet_4
+  - first:
+      213: -8205884042355554582
+    second: fuego spritesheet_5
+  - first:
+      213: -1161267457154732962
+    second: fuego spritesheet_6
+  - first:
+      213: 1242556599899905802
+    second: fuego spritesheet_7
+  - first:
+      213: 4163372628740877995
+    second: fuego spritesheet_8
+  - first:
+      213: -1078907595949859705
+    second: fuego spritesheet_9
+  - first:
+      213: -9222660355086764284
+    second: fuego spritesheet_10
+  - first:
+      213: 3421306017717603330
+    second: fuego spritesheet_11
+  - first:
+      213: -7917390530486014801
+    second: fuego spritesheet_12
+  - first:
+      213: 248577188068621683
+    second: fuego spritesheet_13
+  - first:
+      213: 4925046797313366566
+    second: fuego spritesheet_14
+  - first:
+      213: 82660043607753384
+    second: fuego spritesheet_15
+  - first:
+      213: 2082024309538845639
+    second: fuego spritesheet_16
+  - first:
+      213: -8066985323798665848
+    second: fuego spritesheet_17
+  - first:
+      213: 5533745252472961727
+    second: fuego spritesheet_18
+  - first:
+      213: 3390450097058178834
+    second: fuego spritesheet_19
+  - first:
+      213: 7186502998049281721
+    second: fuego spritesheet_20
+  - first:
+      213: 1555461806714678583
+    second: fuego spritesheet_21
+  - first:
+      213: -2011759030062503869
+    second: fuego spritesheet_22
+  - first:
+      213: -6127080603706068157
+    second: fuego spritesheet_23
+  - first:
+      213: -5430851717936500887
+    second: fuego spritesheet_24
+  - first:
+      213: 4227186025505402616
+    second: fuego spritesheet_25
+  - first:
+      213: 6298159714519231090
+    second: fuego spritesheet_26
+  - first:
+      213: 6242125209119634896
+    second: fuego spritesheet_27
+  - first:
+      213: 1178413539811212286
+    second: fuego spritesheet_28
+  - first:
+      213: -1836926946820838879
+    second: fuego spritesheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fuego spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e244a1838059f990800000000000000
+      internalID: 2269863035391617793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f495436580542460800000000000000
+      internalID: 490747466193343511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf63c8e693830e70800000000000000
+      internalID: -3272331880430945692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99ef031086db3b0800000000000000
+      internalID: -1794166207968565183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbccbe1ed53c6d90800000000000000
+      internalID: 7217829120074018473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c95ba0f7de1e80800000000000000
+      internalID: -7406980496788685879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c221f766952efe0800000000000000
+      internalID: -2399503359293052912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fd95ee4a27e3110800000000000000
+      internalID: -6926953816342918730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2fabe85547c930800000000000000
+      internalID: 2540607432223195391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c10fdf143f601f0800000000000000
+      internalID: 7900637127075958491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b9f25547820080800000000000000
+      internalID: 6268465621598876531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc6fd32bbea7f20800000000000000
+      internalID: -2614046619770146032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face65ab247cf1290800000000000000
+      internalID: -2984476400545962945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d7812b2af137300800000000000000
+      internalID: -9208363645240715550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad908d7f7495440800000000000000
+      internalID: 8937154877989343049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2cb582fdaa52100800000000000000
+      internalID: 458539290297082434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c37ac71416d4ec10800000000000000
+      internalID: -7430334475303305958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885e0b6b69f4c0090800000000000000
+      internalID: -291603087725703080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab723fcffcbcc40800000000000000
+      internalID: -8050009200850325178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21767df566c4d0f20800000000000000
+      internalID: 4691170076642315294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6d108a6669bb360800000000000000
+      internalID: 4409420634979063068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d6ae2a54c169510800000000000000
+      internalID: 4495784100034527775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a07722dbc414e0800000000000000
+      internalID: -8161715274813782902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f9e157ac38faa0800000000000000
+      internalID: 910245819768855955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f239ce22db1a4b0800000000000000
+      internalID: -4364794803186892319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feaeb92b4bf9aa30800000000000000
+      internalID: 200177611484586004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a289a24ee876750800000000000000
+      internalID: -4417401795370336124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d536153ecb70a650800000000000000
+      internalID: -6414770651565780691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb35f6fed09a5010800000000000000
+      internalID: 4476665223970085964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuego spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aa660acace186e0800000000000000
+      internalID: 2754213012804000720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fuego spritesheet_0: 2269863035391617793
+      fuego spritesheet_1: 490747466193343511
+      fuego spritesheet_10: 6268465621598876531
+      fuego spritesheet_11: -2614046619770146032
+      fuego spritesheet_12: -2984476400545962945
+      fuego spritesheet_13: -9208363645240715550
+      fuego spritesheet_14: 8937154877989343049
+      fuego spritesheet_15: 458539290297082434
+      fuego spritesheet_16: -7430334475303305958
+      fuego spritesheet_17: -291603087725703080
+      fuego spritesheet_18: -8050009200850325178
+      fuego spritesheet_19: 4691170076642315294
+      fuego spritesheet_2: -3272331880430945692
+      fuego spritesheet_20: 4409420634979063068
+      fuego spritesheet_21: 4495784100034527775
+      fuego spritesheet_22: -8161715274813782902
+      fuego spritesheet_23: 910245819768855955
+      fuego spritesheet_24: -4364794803186892319
+      fuego spritesheet_25: 200177611484586004
+      fuego spritesheet_26: -4417401795370336124
+      fuego spritesheet_27: -6414770651565780691
+      fuego spritesheet_28: 4476665223970085964
+      fuego spritesheet_29: 2754213012804000720
+      fuego spritesheet_3: -1794166207968565183
+      fuego spritesheet_4: 7217829120074018473
+      fuego spritesheet_5: -7406980496788685879
+      fuego spritesheet_6: -2399503359293052912
+      fuego spritesheet_7: -6926953816342918730
+      fuego spritesheet_8: 2540607432223195391
+      fuego spritesheet_9: 7900637127075958491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
